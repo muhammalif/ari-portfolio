@@ -2,9 +2,9 @@ const About = () => {
   const skills = ["AutoCAD", "SketchUp", "Enscape", "Photoshop"];
 
   return (
-    <main className="flex-grow pt-[120px] pb-section-gap px-margin-edge max-w-container-max mx-auto w-full bg-grid">
-      <header className="mb-section-gap max-w-4xl">
-        <h1 className="font-display-xl text-display-xl text-primary mb-8 dark:text-white">
+    <main className="flex-grow pt-32 pb-section-gap px-6 md:px-margin-edge max-w-container-max mx-auto w-full bg-grid">
+      <header className="mb-16 md:mb-section-gap max-w-4xl">
+        <h1 className="font-display-xl text-4xl md:text-5xl lg:text-display-xl text-primary mb-8 dark:text-white">
           Di Balik Garis & Ruang
         </h1>
         <div className="h-px w-full bg-outline-variant mb-8 max-w-2xl dark:bg-neutral-700"></div>
@@ -24,7 +24,7 @@ const About = () => {
             <img
               alt="Architectural portrait"
               className="w-full h-full object-cover filter grayscale opacity-90 mix-blend-multiply group-hover:scale-105 transition-transform duration-700 dark:mix-blend-normal"
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuAWBriFT_yHOzC2py8EGVC4FgpF15iC8nXgnuodiukKrdmcSMwRtxyX0a9LN9Bb3omvbFM3j1V4LsCA76SLGL1uYP6sstceUga5OVoRhhgi7sOoFX7jnc5yejWh-JlFW6I3OdBiXh_hgg2b_lJf7HS0aEWJnAH1B2uDcWqai2VEVb9Vf1xE-VuShBmf84cn4tDzN7upPNBLXHrpW3zb_Bs5Rcw_IMmomu40loZRt3Yc0Hd8_dBvEwwxZARghrBOHwA-6cDVAsXetzs"
+              src="https://res.cloudinary.com/doz86nkh3/image/upload/v1777095823/drawer_rvqtq8.jpg"
             />
           </div>
           <div className="absolute -bottom-6 left-0 font-technical-data text-technical-data text-on-surface-variant dark:text-neutral-400">
@@ -55,20 +55,6 @@ const About = () => {
                 <div className="absolute -left-[5px] top-1.5 w-[9px] h-[9px] bg-surface border-2 border-outline-variant rounded-none dark:bg-black dark:border-neutral-500"></div>
                 <div className="flex flex-col mb-1">
                   <span className="font-technical-data text-technical-data text-on-surface-variant mb-1 dark:text-neutral-400">
-                    2022 — PRESENT
-                  </span>
-                  <h3 className="font-headline-md text-headline-md text-primary dark:text-white">
-                    Tanri Abeng University
-                  </h3>
-                </div>
-                <p className="font-body-md text-body-md text-on-surface-variant dark:text-neutral-300">
-                  Architecture Student
-                </p>
-              </div>
-              <div className="relative pl-10">
-                <div className="absolute -left-[5px] top-1.5 w-[9px] h-[9px] bg-surface border-2 border-outline-variant rounded-none dark:bg-black dark:border-neutral-500"></div>
-                <div className="flex flex-col mb-1">
-                  <span className="font-technical-data text-technical-data text-on-surface-variant mb-1 dark:text-neutral-400">
                     2020 — 2023
                   </span>
                   <h3 className="font-headline-md text-headline-md text-primary dark:text-white">
@@ -76,7 +62,7 @@ const About = () => {
                   </h3>
                 </div>
                 <p className="font-body-md text-body-md text-on-surface-variant dark:text-neutral-300">
-                  Warehouse & Building Projects
+                  Architecture Drafter, Structure, MEP
                 </p>
               </div>
               <div className="relative pl-10">
@@ -88,6 +74,23 @@ const About = () => {
                   <h3 className="font-headline-md text-headline-md text-primary dark:text-white">
                     PT. Pamindo Prima Utama Mandiri
                   </h3>
+                </div>
+                <p className="font-body-md text-body-md text-on-surface-variant dark:text-neutral-300">
+                  Fabrication Drafter
+                </p>
+              </div>
+              <div className="relative pl-10">
+                <div className="absolute -left-[5px] top-1.5 w-[9px] h-[9px] bg-surface border-2 border-outline-variant rounded-none dark:bg-black dark:border-neutral-500"></div>
+                <div className="flex flex-col mb-1">
+                  <span className="font-technical-data text-technical-data text-on-surface-variant mb-1 dark:text-neutral-400">
+                    2017
+                  </span>
+                  <h3 className="font-headline-md text-headline-md text-primary dark:text-white">
+                    PT. Prima Detailindo
+                  </h3>
+                  <p className="font-body-md text-body-md text-on-surface-variant dark:text-neutral-300">
+                    Intern - Architecture Drafter
+                  </p>
                 </div>
               </div>
             </div>
