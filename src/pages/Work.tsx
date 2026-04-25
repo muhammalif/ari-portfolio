@@ -10,41 +10,89 @@ const Work = () => {
   const projects: Project[] = [
     {
       title: "Ocean Farm Eco-Resort",
-      category: "Residential",
-      year: "2023",
+      category: "Commercial",
+      year: "2025",
       img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777049514/oceanfarm1_rmxqkt.jpg",
     },
     {
       title: "Revitalisasi Stasiun Jakarta Kota",
-      category: "Civic / Green Roof",
-      year: "2022",
+      category: "Green Roof",
+      year: "2025",
       img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777049561/greenroof_fmc5ea.jpg",
     },
     {
-      title: "Mr. T Office",
-      category: "Premium Workspace",
-      year: "2023",
-      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777055995/mrtoffice_mednga.jpg",
-    },
-    {
       title: "Dikichi Resto",
-      category: "Commercial Interior",
-      year: "2021",
+      category: "Restaurant",
+      year: "2025",
       img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777056461/dikichiresto_spxqxz.jpg",
       offset: true,
     },
     {
       title: "D'Look Salon",
       category: "Beauty Bar",
-      year: "2022",
+      year: "2025",
       img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777056471/dlooksalon_gkntfr.jpg",
     },
     {
+      title: "Mr. O House",
+      category: "Residential",
+      year: "2025",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777127814/mrohouse_wkjbdc.jpg",
+    },
+    {
       title: "Rapid-Disaster Relief Shelter",
-      category: "Modular Concept",
+      category: "Residential",
       year: "2024",
       img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777056164/rapid_q98x08.jpg",
       offset: true,
+    },
+    {
+      title: "Mr. T Office",
+      category: "Commercial",
+      year: "2024",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777055995/mrtoffice_mednga.jpg",
+    },
+    {
+      title: "Mrs. N House",
+      category: "Residential",
+      year: "2024",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777127814/mrsnhouse_u7s3zw.jpg",
+    },
+    {
+      title: "Gor Badminton",
+      category: "Sports",
+      year: "2024",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777127815/gor_wcxhdq.jpg",
+    },
+    {
+      title: "Hotel Butique",
+      category: "Residential Hotel",
+      year: "2024",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777127815/hotelbutique_c6tiwk.jpg",
+    },
+    {
+      title: "Warehouse Blok MA No. 20 & 21",
+      category: "Warehouse",
+      year: "2023",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777127816/whblokma_uzryai.jpg",
+    },
+    {
+      title: "Warehouse Blok FC No. 12",
+      category: "Warehouse",
+      year: "2022",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777127815/whblokfc_ttxbmy.jpg",
+    },
+    {
+      title: "Warehouse Blok EC No. 39 & 40",
+      category: "Warehouse",
+      year: "2022",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777127815/whblokec_v7emwr.jpg",
+    },
+    {
+      title: "Warehouse Blok GA No. 5 & 6",
+      category: "Warehouse",
+      year: "2022",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777127815/whblokga_wrtpjj.jpg",
     },
   ];
 
@@ -56,7 +104,7 @@ const Work = () => {
         </h1>
         <div className="w-24 h-0.5 bg-secondary mt-8 dark:bg-orange-400"></div>
         <p className="font-body-lg text-body-lg text-on-surface-variant mt-8 max-w-2xl dark:text-neutral-300">
-          A curated selection of architectural and interior design projects exploring spatial
+          A curated selection of architectural and exterior & interior design projects exploring spatial
           clarity, natural materials, and contextual relevance.
         </p>
         <div className="mt-12 group/btn">
