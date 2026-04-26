@@ -17,7 +17,7 @@ const Home = () => {
           <div className="relative z-10 max-w-container-max mx-auto px-6 md:px-margin-edge w-full grid grid-cols-12 gap-gutter mt-20 md:mt-0">
             <div className="col-span-12 md:col-span-10 lg:col-span-8 flex flex-col justify-center items-start">
               <h1 className="font-display-xl text-4xl md:text-display-xl text-neutral-900 dark:text-white mb-6 leading-tight drop-shadow-sm">
-                Ari Septian Fauzi: Merancang Ruang, Membangun Masa Depan.
+                Merancang Ruang, Membangun Masa Depan.
               </h1>
               <p className="font-body-lg text-body-lg text-neutral-600 dark:text-neutral-400 max-w-2xl mb-10 leading-relaxed">
                 Architecture & Interior Drafter with 8+ years of experience in creating precise and inspiring spatial solutions.

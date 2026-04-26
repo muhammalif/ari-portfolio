@@ -47,8 +47,7 @@ const Navigation = ({ isDarkMode, toggleDarkMode }: NavigationProps) => {
           to="/"
           className="text-xl md:text-2xl font-serif text-neutral-900 dark:text-neutral-50 tracking-tighter cursor-pointer z-50 flex items-center gap-1 group"
         >
-          <span className="font-bold">ARI.</span>
-          <span className="opacity-50 group-hover:opacity-100 transition-opacity font-light italic">STUDIO</span>
+          <span className="font-bold">Ari Septian Fauzi</span>
         </Link>
 
         {/* Desktop Menu */}
