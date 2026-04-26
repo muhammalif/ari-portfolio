@@ -68,7 +68,7 @@ const Home = () => {
                       Ocean Farm Eco-Resort
                     </h3>
                     <p className="font-technical-data text-technical-data text-on-surface-variant dark:text-neutral-400">
-                      Residential • 2025
+                      Commercial • 2025
                     </p>
                   </div>
                   <button className="w-12 h-12 flex items-center justify-center bg-primary text-on-primary hover:bg-secondary transition-colors dark:bg-white dark:text-black dark:hover:bg-orange-400">
