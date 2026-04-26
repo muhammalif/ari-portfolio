@@ -22,7 +22,9 @@ const Contact = () => {
               </h3>
               <a
                 className="font-headline-md text-headline-md text-primary hover:text-secondary transition-colors block dark:text-white dark:hover:text-orange-400"
-                href="tel:083823393910"
+                href="https://wa.me/6283823393910"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 0838-2339-3910
               </a>
@@ -38,7 +40,9 @@ const Contact = () => {
               </h3>
               <a
                 className="font-headline-md text-headline-md text-primary hover:text-secondary transition-colors block break-all dark:text-white dark:hover:text-orange-400"
-                href="mailto:septianari108@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=septianari108@gmail.com"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 septianari108@gmail.com
               </a>

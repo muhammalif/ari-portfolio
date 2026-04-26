@@ -12,13 +12,13 @@ const Work = () => {
       title: "Ocean Farm Eco-Resort",
       category: "Commercial",
       year: "2025",
-      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777049514/oceanfarm1_rmxqkt.jpg",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777214933/Enscape_2025-06-19-00-02-09_Enscape_scene_2_1_rtstj0.png",
     },
     {
       title: "Revitalisasi Stasiun Jakarta Kota",
       category: "Green Roof",
       year: "2025",
-      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777049561/greenroof_fmc5ea.jpg",
+      img: "https://res.cloudinary.com/doz86nkh3/image/upload/v1777215219/Enscape_2025-01-13-00-39-39_Enscape_scene_1_qowled.png",
     },
     {
       title: "Dikichi Resto",
@@ -100,7 +100,7 @@ const Work = () => {
     <main className="pt-32 pb-section-gap flex-grow">
       <header className="max-w-container-max mx-auto px-6 md:px-gutter mb-16 md:mb-24">
         <h1 className="font-display-xl text-4xl md:text-display-xl text-on-surface max-w-4xl dark:text-white">
-          Selected Works & Projects
+          Works & Projects
         </h1>
         <div className="w-24 h-0.5 bg-secondary mt-8 dark:bg-orange-400"></div>
         <p className="font-body-lg text-body-lg text-on-surface-variant mt-8 max-w-2xl dark:text-neutral-300">

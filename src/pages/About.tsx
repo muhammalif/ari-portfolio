@@ -24,7 +24,7 @@ const About = () => {
             <img
               alt="Architectural portrait"
               className="w-full h-full object-cover filter grayscale opacity-90 mix-blend-multiply group-hover:scale-105 transition-transform duration-700 dark:mix-blend-normal"
-              src="https://res.cloudinary.com/doz86nkh3/image/upload/v1777095823/drawer_rvqtq8.jpg"
+              src="https://res.cloudinary.com/doz86nkh3/image/upload/v1777218105/Scene_5_1_zhieey.jpg"
             />
           </div>
           <div className="absolute -bottom-6 left-0 font-technical-data text-technical-data text-on-surface-variant dark:text-neutral-400">
@@ -76,7 +76,7 @@ const About = () => {
                   </h3>
                 </div>
                 <p className="font-body-md text-body-md text-on-surface-variant dark:text-neutral-300">
-                  Fabrication Drafter
+                  Fabrication Drafter, Estimator
                 </p>
               </div>
               <div className="relative pl-10">
