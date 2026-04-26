@@ -59,7 +59,7 @@ const Home = () => {
               <img
                 alt="Modern Villa"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-                src="https://res.cloudinary.com/doz86nkh3/image/upload/v1777049514/oceanfarm1_rmxqkt.jpg"
+                src="https://res.cloudinary.com/doz86nkh3/image/upload/v1777214933/Enscape_2025-06-19-00-02-09_Enscape_scene_2_1_rtstj0.png"
               />
               <div className="absolute bottom-0 left-0 right-0 p-8 bg-surface/80 backdrop-blur-xl border-t border-outline-variant/50 transform translate-y-2 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 ease-out dark:bg-black/80 dark:border-neutral-800">
                 <div className="flex justify-between items-end">
@@ -68,7 +68,7 @@ const Home = () => {
                       Ocean Farm Eco-Resort
                     </h3>
                     <p className="font-technical-data text-technical-data text-on-surface-variant dark:text-neutral-400">
-                      Residential • 2023
+                      Residential • 2025
                     </p>
                   </div>
                   <button className="w-12 h-12 flex items-center justify-center bg-primary text-on-primary hover:bg-secondary transition-colors dark:bg-white dark:text-black dark:hover:bg-orange-400">
@@ -81,14 +81,14 @@ const Home = () => {
               <img
                 alt="Urban Loft"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-                src="https://res.cloudinary.com/doz86nkh3/image/upload/v1777049561/greenroof_fmc5ea.jpg"
+                src="https://res.cloudinary.com/doz86nkh3/image/upload/v1777215219/Enscape_2025-01-13-00-39-39_Enscape_scene_1_qowled.png"
               />
               <div className="absolute bottom-0 left-0 right-0 p-6 bg-surface/80 backdrop-blur-xl border-t border-outline-variant/50 transform translate-y-2 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 ease-out dark:bg-black/80 dark:border-neutral-800">
                 <h3 className="font-headline-md text-xl text-on-background mb-1 dark:text-white">
-                  Urban Revival Loft
+                  Revitalisasi Stasiun Jakarta Kota
                 </h3>
                 <p className="font-technical-data text-xs text-on-surface-variant dark:text-neutral-400">
-                  Green Roof Architecture • 2022
+                  Green Roof Architecture • 2025
                 </p>
               </div>
             </div>
