@@ -131,7 +131,7 @@ const Navigation = ({ isDarkMode, toggleDarkMode }: NavigationProps) => {
             <div className="flex flex-col gap-6">
               <div className="flex flex-col gap-2">
                 <span className="text-[10px] tracking-[0.2em] text-neutral-400 uppercase font-semibold">Get in touch</span>
-                <a href="mailto:ari@example.com" className="text-sm font-medium hover:text-secondary transition-colors">ari.septian@email.com</a>
+                <a href="mailto:septianari108@gmail.com" className="text-sm font-medium hover:text-secondary transition-colors">septianari108@gmail.com</a>
               </div>
               <div className="pt-4 text-[10px] tracking-[0.2em] text-neutral-400 uppercase font-medium">
                 © 2026 ARI SEPTIAN FAUZI
